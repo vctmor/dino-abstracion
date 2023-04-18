@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     background-color: rgb(61, 60, 60);
     
 }
@@ -20,7 +20,7 @@
 }
 
 .animar{
-    animation: persoagem 500ms infinite;
+    animation: personagem 500ms infinite;
 }
 
 @keyframes personagem{
@@ -41,7 +41,7 @@
 }
 
 @keyframes quadrado {
-    0%{left:480;}
-    100%{left: -40;}
+    0%{left: 480px;}
+    100%{left: -40px;}
     
 }
