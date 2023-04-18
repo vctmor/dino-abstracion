@@ -1,6 +1,6 @@
 # Dino Abstraction
 
-# Release da versão inicial, vulgo cóia
+# Release da versão inicial, vulgo cóia (v0.0)
 
 Por hora não passa de uma cópia. De fato uma cópia: digitei cada caractere do código! 
 Nesse sentido, o objetivo foi me adaptar à sintaxe e à estrutura da linguagem.
